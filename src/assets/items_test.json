@@ -1,0 +1,170 @@
+[
+  {
+    "LocalizationNameVariable": "@ITEMS_T4_BAG",
+    "LocalizationDescriptionVariable": "@ITEMS_T4_BAG_DESC",
+    "LocalizedNames": {
+      "EN-US": "Adept's Bag",
+      "DE-DE": "Tasche des Adepten",
+      "FR-FR": "Sac de l'adepte",
+      "RU-RU": "Сумка (знаток)",
+      "PL-PL": "Sakwa Adepta",
+      "ES-ES": "Bolsa del iniciado",
+      "PT-BR": "Bolsa do Adepto",
+      "ZH-CN": "娴熟级背包",
+      "KO-KR": "숙련자의 가방"
+    },
+    "LocalizedDescriptions": {
+      "EN-US": "Equipment Item",
+      "DE-DE": "Ausrüstungsgegenstand",
+      "FR-FR": "Pièce d'équipement",
+      "RU-RU": "Снаряжение",
+      "PL-PL": "Przedmiot do wyposażenia",
+      "ES-ES": "Objeto de equipo",
+      "PT-BR": "Item de Equipamento",
+      "ZH-CN": "装备物品",
+      "KO-KR": "장비 아이템"
+    },
+    "Index": "1940",
+    "UniqueName": "T4_BAG"
+  },
+  {
+    "LocalizationNameVariable": "@ITEMS_T5_BAG",
+    "LocalizationDescriptionVariable": "@ITEMS_T5_BAG_DESC",
+    "LocalizedNames": {
+      "EN-US": "Expert's Bag",
+      "DE-DE": "Tasche des Experten",
+      "FR-FR": "Sac de l'expert",
+      "RU-RU": "Сумка (эксперт)",
+      "PL-PL": "Sakwa Znawcy",
+      "ES-ES": "Bolsa del experto",
+      "PT_BR": "Bolsa do Perito",
+      "ZH-CN": "专家级背包",
+      "KO-KR": "전문가의 가방"
+    },
+    "LocalizedDescriptions": {
+      "EN-US": "Equipment Item",
+      "DE-DE": "Ausrüstungsgegenstand",
+      "FR-FR": "Pièce d'équipement",
+      "RU-RU": "Снаряжение",
+      "PL-PL": "Przedmiot do wyposażenia",
+      "ES-ES": "Objeto de equipo",
+      "PT_BR": "Item de Equipamento",
+      "ZH-CN": "装备物品",
+      "KO-KR": "장비 아이템"
+    },
+    "Index": "1944",
+    "UniqueName": "T5_BAG"
+  },
+  {
+    "LocalizationNameVariable": "@ITEMS_T6_BAG",
+    "LocalizationDescriptionVariable": "@ITEMS_T6_BAG_DESC",
+    "LocalizedNames": {
+      "EN-US": "Master's Bag",
+      "DE-DE": "Tasche des Meisters",
+      "FR-FR": "Sac du maître",
+      "RU-RU": "Сумка (мастер)",
+      "PL-PL": "Sakwa Mistrza",
+      "ES-ES": "Bolsa del maestro",
+      "PT_BR": "Bolsa do Mestre",
+      "ZH-CN": "大师级背包",
+      "KO-KR": "마스터의 가방"
+    },
+    "LocalizedDescriptions": {
+      "EN-US": "Equipment Item",
+      "DE-DE": "Ausrüstungsgegenstand",
+      "FR-FR": "Pièce d'équipement",
+      "RU-RU": "Снаряжение",
+      "PL-PL": "Przedmiot do wyposażenia",
+      "ES-ES": "Objeto de equipo",
+      "PT-BR": "Item de Equipamento",
+      "ZH-CN": "装备物品",
+      "KO-KR": "장비 아이템"
+    },
+    "Index": "1948",
+    "UniqueName": "T6_BAG"
+  },
+  {
+    "LocalizationNameVariable": "@ITEMS_T7_BAG",
+    "LocalizationDescriptionVariable": "@ITEMS_T7_BAG_DESC",
+    "LocalizedNames": {
+      "EN-US": "Grandmaster's Bag",
+      "DE-DE": "Tasche des Großmeisters",
+      "FR-FR": "Sac du grand maître",
+      "RU-RU": "Сумка (магистр)",
+      "PL-PL": "Sakwa Wszechmistrza",
+      "ES-ES": "Bolsa del gran maestro",
+      "PT-BR": "Bolsa do Grão-mestre",
+      "ZH-CN": "宗师级背包",
+      "KO-KR": "그랜드 마스터의 가방"
+    },
+    "LocalizedDescriptions": {
+      "EN-US": "Equipment Item",
+      "DE-DE": "Ausrüstungsgegenstand",
+      "FR-FR": "Pièce d'équipement",
+      "RU-RU": "Снаряжение",
+      "PL-PL": "Przedmiot do wyposażenia",
+      "ES-ES": "Objeto de equipo",
+      "PT-BR": "Item de Equipamento",
+      "ZH-CN": "装备物品",
+      "KO-KR": "장비 아이템"
+    },
+    "Index": "1952",
+    "UniqueName": "T7_BAG"
+  },
+  {
+    "LocalizationNameVariable": "@ITEMS_T7_BAG",
+    "LocalizationDescriptionVariable": "@ITEMS_T7_BAG_DESC",
+    "LocalizedNames": {
+      "EN-US": "Grandmaster's Bag",
+      "DE-DE": "Tasche des Großmeisters",
+      "FR-FR": "Sac du grand maître",
+      "RU-RU": "Сумка (магистр)",
+      "PL-PL": "Sakwa Wszechmistrza",
+      "ES-ES": "Bolsa del gran maestro",
+      "PT-BR": "Bolsa do Grão-mestre",
+      "ZH-CN": "宗师级背包",
+      "KO-KR": "그랜드 마스터의 가방"
+    },
+    "LocalizedDescriptions": {
+      "EN-US": "Equipment Item",
+      "DE-DE": "Ausrüstungsgegenstand",
+      "FR-FR": "Pièce d'équipement",
+      "RU-RU": "Снаряжение",
+      "PL-PL": "Przedmiot do wyposażenia",
+      "ES-ES": "Objeto de equipo",
+      "PT-BR": "Item de Equipamento",
+      "ZH-CN": "装备物品",
+      "KO-KR": "장비 아이템"
+    },
+    "Index": "1953",
+    "UniqueName": "T7_BAG@1"
+  },
+  {
+    "LocalizationNameVariable": "@ITEMS_T8_BAG",
+    "LocalizationDescriptionVariable": "@ITEMS_T8_BAG_DESC",
+    "LocalizedNames": {
+      "EN-US": "Elder's Bag",
+      "DE-DE": "Tasche des Ältesten",
+      "FR-FR": "Sac du sage",
+      "RU-RU": "Сумка (старейшина)",
+      "PL-PL": "Sakwa Starszego",
+      "ES-ES": "Bolsa del anciano",
+      "PT-BR": "Bolsa do Ancião",
+      "ZH-CN": "禅师级背包",
+      "KO-KR": "장로의 가방"
+    },
+    "LocalizedDescriptions": {
+      "EN-US": "Equipment Item",
+      "DE-DE": "Ausrüstungsgegenstand",
+      "FR-FR": "Pièce d'équipement",
+      "RU-RU": "Снаряжение",
+      "PL-PL": "Przedmiot do wyposażenia",
+      "ES-ES": "Objeto de equipo",
+      "PT-BR": "Item de Equipamento",
+      "ZH-CN": "装备物品",
+      "KO-KR": "장비 아이템"
+    },
+    "Index": "1956",
+    "UniqueName": "T8_BAG"
+  }
+]

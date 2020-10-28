@@ -1,0 +1,56 @@
+/* primary color #7b1fa2 */
+/* background color #353535 */
+/* table color #424242 */
+/* complementary color #46A21F */
+
+:root {
+  --main-color: white;
+}
+
+.test {
+  border: red solid;
+  background: #73bc52;
+  color: blue;
+  /* background-color: blue; */
+}
+
+.layout1 {
+  border: red 2px solid;
+  color: white;
+}
+.layout2 {
+  border: #73bc52 3px solid;
+  color: white;
+}
+
+.containerInfo {
+  color: white;
+}
+
+legend {
+  color: white;
+}
+
+::ng-deep .mat-form-field input.mat-input-element label.mat-slide-toggle {
+  color: white;
+}
+
+::ng-deep .mat-form-field.mat-focused .mat-form-field-label {
+  color: #73bc52 !important;
+}
+
+::ng-deep .mat-focused .mat-form-field-underline .mat-form-field-ripple {
+  background-color: #73bc52 !important;
+}
+
+::ng-deep .mat-slide-toggle {
+  color: white;
+}
+
+.price-item-container {
+  padding: 30px;
+}
+
+table {
+  width: 100%;
+}

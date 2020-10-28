@@ -1,0 +1,14 @@
+[
+    {
+        "LocalizationNameVariable": "@ITEMS_UNIQUE_HIDEOUT",
+        "LocalizationDescriptionVariable": "@ITEMS_UNIQUE_HIDEOUT_DESC",        
+        "Index": "1",
+        "UniqueName": "UNIQUE_HIDEOUT"
+    },
+    {
+        "LocalizationNameVariable": "@ITEMS_UNIQUE_HIDEOUT",
+        "LocalizationDescriptionVariable": "@ITEMS_UNIQUE_HIDEOUT_DESC",
+        "Index": "1",
+        "UniqueName": "UNIQUE_HIDEOUT"
+    }
+]

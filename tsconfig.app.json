@@ -2,7 +2,12 @@
   "extends": "./tsconfig.json",
   "compilerOptions": {
     "outDir": "./out-tsc/app",
-    "types": []
+    "types": [],
+    // "resolveJsonModule": true,
+    // "esModuleInterop": true    
+  },
+  "angularCompilerOptions": {
+    "enableIvy": false
   },
   "files": [
     "src/main.ts",
