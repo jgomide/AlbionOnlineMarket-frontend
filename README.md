@@ -2,9 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
 
-A front-end Web Project using Angular that shows prices and market information of items in the game [Albion Online](https://albiononline.com/en/home). Based in another project [The Albion Online Data Project](https://www.albion-online-data.com/) where using a software, wrote in C# .Net, they extract the data from the game Albion Onlione and make it available through a web api. 
+A front-end Web Project using Angular that shows prices and market information of items in the game [Albion Online](https://albiononline.com/en/home). This project is based on a back-end project called [The Albion Online Data Project](https://www.albion-online-data.com/) written in C# .Net. They extract the data from the game Albion Online and make it available through a web api. 
 
-This project is in the beggining, I will update the readme with more details soon. 
+This project is still in early stages of development and further information updates will release soon. 
 
 ## Development server
 
